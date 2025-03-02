@@ -31,13 +31,13 @@ PlantMed is a Python desktop application designed to help users diagnose plant d
 1. Open the application.
 2. Enter the observed plant symptoms in the input fields.
 
-<img width="632" alt="hr" src="file:///Users/iasmina012/Desktop/1.png">
+![1](https://github.com/user-attachments/assets/ff0eacca-331b-4258-b42d-33150d936ff0)
 
-4. Click the **Submit** button to analyze the symptoms.
+3. Click the **Submit** button to analyze the symptoms.
    
-<img width="632" alt="hr" src="file:///Users/iasmina012/Desktop/2.png">
+![2](https://github.com/user-attachments/assets/107654c3-a10f-4aaf-9c27-54e2b2b97f08)
 
-6. View the diagnosed disease(s) and corresponding images.
-7. Click on an image to enlarge it.
+4. View the diagnosed disease(s) and corresponding images.
+5. Click on an image to enlarge it.
    
-<img width="632" alt="hr" src="file:///Users/iasmina012/Desktop/3.png">
+![3](https://github.com/user-attachments/assets/33c2058e-168d-4714-af15-bc64924b3994)
